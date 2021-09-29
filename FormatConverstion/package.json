@@ -1,0 +1,17 @@
+{
+    "name": "json",
+    "version": "1.0.0",
+    "description": "Read, Update JSON file and convert it into CSV and XML",
+    "main": "script.js",
+    "type": "module",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/manjunathhalli/Web_Apps/tree/main/JSON%20Read-Write"
+    },
+    "keywords": [],
+    "author": "Manjunath Halli",
+    "license": "MIT"
+  }
